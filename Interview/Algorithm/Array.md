@@ -1,7 +1,7 @@
 ## Problems
 
-1. Running Sum of 1d Array
-2. Continuous Subarray Sum
+1. Running Sum of 1d Array -- Done
+2. Continuous Subarray Sum -- Done (look up solution in youtube)
 3. Random Pick with Weight
 4. Friends Of Appropriate Ages
 5. Trap Rain Water
